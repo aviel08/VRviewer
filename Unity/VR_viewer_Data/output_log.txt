@@ -1,0 +1,16 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 525M     (ID=0xdf5)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Alx\Documents\GitHub\VR_viewer\VR_viewer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Alx\Documents\GitHub\VR_viewer\VR_viewer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Alx\Documents\GitHub\VR_viewer\VR_viewer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Alx\Documents\GitHub\VR_viewer\VR_viewer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.088 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 2646x800 at 0,0
